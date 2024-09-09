@@ -1,0 +1,20 @@
+{
+  "intro": {
+    "text": "指南1",
+    "children": [
+      {
+        "text": "指南1-1",
+        "link": "/guide/design"
+      }
+    ]
+  },
+  "advanced": {
+    "text": "指南2",
+    "children": [
+      {
+        "text": "指南2-1",
+        "link": "/guide/i18n"
+      }
+    ]
+  }
+}

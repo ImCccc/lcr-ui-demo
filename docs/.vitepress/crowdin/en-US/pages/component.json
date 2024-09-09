@@ -1,0 +1,20 @@
+{
+  "overview": {
+    "text": "概述",
+    "children": [
+      {
+        "link": "/overview",
+        "text": "Overview"
+      }
+    ]
+  },
+  "basic": {
+    "text": "基础组件",
+    "children": [
+      {
+        "link": "/button",
+        "text": "Button"
+      }
+    ]
+  }
+}
