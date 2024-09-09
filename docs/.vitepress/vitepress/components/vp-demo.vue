@@ -74,7 +74,7 @@ const copyCode = async () => {
           @keydown.prevent.enter="copyCode"
           @keydown.prevent.space="copyCode"
         >
-          <i-ri-file-copy-line />
+          复制
         </ElIcon>
       </ElTooltip>
       <ElTooltip
@@ -89,9 +89,7 @@ const copyCode = async () => {
           class="reset-btn el-icon op-btn"
           @click="toggleSourceVisible()"
         >
-          <ElIcon :size="16">
-            <i-ri-code-line />
-          </ElIcon>
+          显示
         </button>
       </ElTooltip>
     </div>
